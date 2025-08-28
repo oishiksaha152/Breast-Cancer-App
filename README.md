@@ -1,6 +1,6 @@
 # Breast Cancer Detection App
 
-**Live Demo:** [Explore the App Here](https://breast-cancer-app-ptavzznpynbl8dsvxgfxps.streamlit.app/)
+**Live Demo:** [Explore the App Here](https://breast-cancer-app-jsufvjhgseijsksghsjzr8.streamlit.app/)
 
 ---
 
